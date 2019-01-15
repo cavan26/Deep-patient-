@@ -16,3 +16,4 @@ models/*
 # Ignore swap files
 **/*.swp
 
+.Rproj.user
